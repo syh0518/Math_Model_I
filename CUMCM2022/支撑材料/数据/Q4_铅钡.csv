@@ -1,0 +1,13 @@
+铅钡玻璃,正相关显著,负相关显著
+CuO,"SiO2,MgO",BaO
+BaO,"SiO2,MgO,Al2O3",CuO
+CaO,"SiO2,Na2O","P2O5,PbO,MgO,Fe2O3"
+P2O5,"SiO2,Na2O","PbO,SrO,MgO,CaO,"
+PbO,"SiO2,Na2O,Al2O3","SrO,P2O5,"
+SrO,SiO2,"P2O5,PbO,"
+SiO2,"CuO,BaO,CaO,P2O5,PbO,SrO","Na2O,Al2O3"
+Na2O,"CaO,P2O5,PbO,",SiO2
+MgO,"Al2O3,CuO,BaO","CaO,P2O5"
+Al2O3,"K2O,BaO,PbO,MgO",SiO2
+K2O,Al2O3,
+Fe2O3,,CaO
